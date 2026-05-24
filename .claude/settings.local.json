@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\USER\\\\Coding_workspace\\\\popco\" -Directory)",
+      "Bash(Select-Object Name)"
+    ]
+  }
+}
